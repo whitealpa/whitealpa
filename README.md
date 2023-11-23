@@ -2,7 +2,7 @@
 - 👀 I’m interested in mindfulness
 - 🌱 I’m currently learning programming and design
 - 💞️ I’m looking to collaborate on mindfulness, fun, learning, useful projects
-- 📫 How to reach me: saelensar@gmail.com
+- 📫 How to reach me: @whitealpa
 
 <!---
 whitealpa/whitealpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
